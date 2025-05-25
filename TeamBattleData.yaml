@@ -1,0 +1,20 @@
+# 勝敗確定数
+win: 2
+
+# 勝利報告開始数
+report_num: 2
+
+# 早稲田式フラグ
+waseda_flag: True
+
+# チームメンバ数
+member_num: 2
+
+# チームデータ
+teams:
+  # 公開用に削除済み
+  # - name: ""
+  #   member: ["", "", ""]
+  #   member_id: ["", "", ""]
+  #   roll_call_count: = チームメンバ数
+
